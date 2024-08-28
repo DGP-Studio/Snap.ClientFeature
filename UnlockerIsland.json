@@ -1,12 +1,12 @@
 {
   "Oversea": {
-    "FunctionOffsetFieldOfView": 23629408,
-    "FunctionOffsetTargetFrameRate": 25703632,
-    "FunctionOffsetFog": 16460496
+    "FunctionOffsetFieldOfView": 284399280,
+    "FunctionOffsetTargetFrameRate": 285177856,
+    "FunctionOffsetFog": 284404960
   },
   "Chinese": {
-    "FunctionOffsetFieldOfView": 23610720,
-    "FunctionOffsetTargetFrameRate": 25684944,
-    "FunctionOffsetFog": 16441808
+    "FunctionOffsetFieldOfView": 284363120,
+    "FunctionOffsetTargetFrameRate": 285179168,
+    "FunctionOffsetFog": 284368800
   }
 }
