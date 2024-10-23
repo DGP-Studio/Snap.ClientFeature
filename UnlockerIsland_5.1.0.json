@@ -2,11 +2,15 @@
   "Oversea": {
     "FunctionOffsetSetFieldOfView": 18050864,
     "FunctionOffsetSetTargetFrameRate": 20047872,
-    "FunctionOffsetSetEnableFogRendering": 22923664
+    "FunctionOffsetSetEnableFogRendering": 22923664,
+    "FunctionOffsetOpenTeam": 125297904,
+    "FunctionOffsetOpenTeamPageAccordingly": 125278320
   },
   "Chinese": {
     "FunctionOffsetSetFieldOfView": 18050352,
     "FunctionOffsetSetTargetFrameRate": 20047360,
-    "FunctionOffsetSetEnableFogRendering": 22923152
+    "FunctionOffsetSetEnableFogRendering": 22923152,
+    "FunctionOffsetOpenTeam": 125855024,
+    "FunctionOffsetOpenTeamPageAccordingly": 125948912
   }
 }
