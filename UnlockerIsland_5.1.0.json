@@ -1,18 +1,20 @@
 {
-  "Oversea": {
-    "FunctionOffsetMickeyWonderMethod": 267939232,
-    "FunctionOffsetSetFieldOfView": 18050864,
-    "FunctionOffsetSetTargetFrameRate": 20047872,
-    "FunctionOffsetSetEnableFogRendering": 22923664,
-    "FunctionOffsetOpenTeam": 125297904,
-    "FunctionOffsetOpenTeamPageAccordingly": 125278320
-  },
   "Chinese": {
     "FunctionOffsetMickeyWonderMethod": 267918576,
+    "FunctionOffsetMickeyWonderMethodPartner": 3068928,
     "FunctionOffsetSetFieldOfView": 18050352,
     "FunctionOffsetSetTargetFrameRate": 20047360,
     "FunctionOffsetSetEnableFogRendering": 22923152,
     "FunctionOffsetOpenTeam": 125855024,
     "FunctionOffsetOpenTeamPageAccordingly": 125948912
+  },
+  "Oversea": {
+    "FunctionOffsetMickeyWonderMethod": 267939232,
+    "FunctionOffsetMickeyWonderMethodPartner": 3068816,
+    "FunctionOffsetSetFieldOfView": 18050864,
+    "FunctionOffsetSetTargetFrameRate": 20047872,
+    "FunctionOffsetSetEnableFogRendering": 22923664,
+    "FunctionOffsetOpenTeam": 125297904,
+    "FunctionOffsetOpenTeamPageAccordingly": 125278320
   }
 }
