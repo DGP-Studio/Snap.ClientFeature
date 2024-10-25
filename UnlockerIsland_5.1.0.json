@@ -1,5 +1,6 @@
 {
   "Oversea": {
+    "FunctionOffsetMickeyWonderMethod": 267939232,
     "FunctionOffsetSetFieldOfView": 18050864,
     "FunctionOffsetSetTargetFrameRate": 20047872,
     "FunctionOffsetSetEnableFogRendering": 22923664,
@@ -7,6 +8,7 @@
     "FunctionOffsetOpenTeamPageAccordingly": 125278320
   },
   "Chinese": {
+    "FunctionOffsetMickeyWonderMethod": 267918576,
     "FunctionOffsetSetFieldOfView": 18050352,
     "FunctionOffsetSetTargetFrameRate": 20047360,
     "FunctionOffsetSetEnableFogRendering": 22923152,
