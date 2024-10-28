@@ -1,7 +1,8 @@
 {
   "Chinese": {
     "FunctionOffsetMickeyWonderMethod": 161291648,
-    "FunctionOffsetMickeyWonderMethodPartner": 3068928,
+    "FunctionOffsetMickeyWonderMethodPartner": 9623024,
+    "FunctionOffsetMickeyWonderMethodPartner2": 88797056,
     "FunctionOffsetSetFieldOfView": 18050352,
     "FunctionOffsetSetTargetFrameRate": 20047360,
     "FunctionOffsetSetEnableFogRendering": 22923152,
@@ -10,7 +11,8 @@
   },
   "Oversea": {
     "FunctionOffsetMickeyWonderMethod": 162758240,
-    "FunctionOffsetMickeyWonderMethodPartner": 3068816,
+    "FunctionOffsetMickeyWonderMethodPartner": 9623504,
+    "FunctionOffsetMickeyWonderMethodPartner2": 88796752,
     "FunctionOffsetSetFieldOfView": 18050864,
     "FunctionOffsetSetTargetFrameRate": 20047872,
     "FunctionOffsetSetEnableFogRendering": 22923664,
