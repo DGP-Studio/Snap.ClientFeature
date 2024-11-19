@@ -1,0 +1,22 @@
+{
+  "Chinese": {
+    "MickeyWonderMethod": 138888832,
+    "MickeyWonderMethodPartner": 9767984,
+    "MickeyWonderMethodPartner2": 92853888,
+    "SetFieldOfView": 20920480,
+    "SetTargetFrameRate": 22919552,
+    "SetEnableFogRendering": 20380416,
+    "OpenTeam": 141138832,
+    "OpenTeamPageAccordingly": 141122272
+  },
+  "Oversea": {
+    "MickeyWonderMethod": 241575408,
+    "MickeyWonderMethodPartner": 9788080,
+    "MickeyWonderMethodPartner2": 92876256,
+    "SetFieldOfView": 20940736,
+    "SetTargetFrameRate": 22939808,
+    "SetEnableFogRendering": 20953632,
+    "OpenTeam": 141177504,
+    "OpenTeamPageAccordingly": 141184096
+  }
+}

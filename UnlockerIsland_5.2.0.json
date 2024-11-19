@@ -1,0 +1,22 @@
+{
+  "Chinese": {
+    "FunctionOffsetMickeyWonderMethod": 138888832,
+    "FunctionOffsetMickeyWonderMethodPartner": 9767984,
+    "FunctionOffsetMickeyWonderMethodPartner2": 92853888,
+    "FunctionOffsetSetFieldOfView": 20920480,
+    "FunctionOffsetSetTargetFrameRate": 22919552,
+    "FunctionOffsetSetEnableFogRendering": 20380416,
+    "FunctionOffsetOpenTeam": 141138832,
+    "FunctionOffsetOpenTeamPageAccordingly": 141122272
+  },
+  "Oversea": {
+    "FunctionOffsetMickeyWonderMethod": 241575408,
+    "FunctionOffsetMickeyWonderMethodPartner": 9788080,
+    "FunctionOffsetMickeyWonderMethodPartner2": 92876256,
+    "FunctionOffsetSetFieldOfView": 20940736,
+    "FunctionOffsetSetTargetFrameRate": 22939808,
+    "FunctionOffsetSetEnableFogRendering": 20953632,
+    "FunctionOffsetOpenTeam": 141177504,
+    "FunctionOffsetOpenTeamPageAccordingly": 141184096
+  }
+}
