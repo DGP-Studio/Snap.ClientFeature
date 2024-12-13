@@ -7,7 +7,8 @@
     "SetEnableFogRendering": 20933376,
     "SetTargetFrameRate": 22919552,
     "OpenTeam": 141138832,
-    "OpenTeamPageAccordingly": 141122272
+    "OpenTeamPageAccordingly": 141122272,
+    "CheckCanEnter": 119840816
   },
   "Oversea": {
     "MickeyWonderMethod": 152499120,
@@ -17,6 +18,7 @@
     "SetEnableFogRendering": 20953632,
     "SetTargetFrameRate": 22939808,
     "OpenTeam": 141177504,
-    "OpenTeamPageAccordingly": 141184096
+    "OpenTeamPageAccordingly": 141184096,
+    "CheckCanEnter": 118615392
   }
 }
