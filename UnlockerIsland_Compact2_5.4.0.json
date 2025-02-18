@@ -9,7 +9,9 @@
     "OpenTeam": 102865760,
     "OpenTeamPageAccordingly": 102804496,
     "CheckCanEnter": 123456848,
-    "SetupQuestBanner": 227718496
+    "SetupQuestBanner": 227718496,
+    "FindGameObject": 276511456,
+    "SetActive": 276510784
   },
   "Oversea": {
     "MickeyWonderMethod": 138413872,
@@ -21,6 +23,8 @@
     "OpenTeam": 101850864,
     "OpenTeamPageAccordingly": 127059184,
     "CheckCanEnter": 110655936,
-    "SetupQuestBanner": 229708720
+    "SetupQuestBanner": 229708720,
+    "FindGameObject": 276565232,
+    "SetActive": 276564560
   }
 }
