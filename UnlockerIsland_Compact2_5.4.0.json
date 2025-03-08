@@ -11,7 +11,8 @@
     "CheckCanEnter": 123456848,
     "SetupQuestBanner": 227718496,
     "FindGameObject": 276511456,
-    "SetActive": 276510784
+    "SetActive": 276510784,
+    "EventCameraMove": 145270624
   },
   "Oversea": {
     "MickeyWonderMethod": 138413872,
@@ -25,6 +26,7 @@
     "CheckCanEnter": 110655936,
     "SetupQuestBanner": 229708720,
     "FindGameObject": 276565232,
-    "SetActive": 276564560
+    "SetActive": 276564560,
+    "EventCameraMove": 146476848
   }
 }
