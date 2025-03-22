@@ -12,7 +12,9 @@
     "SetupQuestBanner": 227718496,
     "FindGameObject": 276511456,
     "SetActive": 276510784,
-    "EventCameraMove": 145270624
+    "EventCameraMove": 145270624,
+    "ShowOneDamageTextEx": 177097488,
+    "SwitchInputDeviceToTouchScreen": 219020608
   },
   "Oversea": {
     "MickeyWonderMethod": 138413872,
@@ -27,6 +29,8 @@
     "SetupQuestBanner": 229708720,
     "FindGameObject": 276565232,
     "SetActive": 276564560,
-    "EventCameraMove": 146476848
+    "EventCameraMove": 146476848,
+    "ShowOneDamageTextEx": 178280272,
+    "SwitchInputDeviceToTouchScreen": 214788096
   }
 }
