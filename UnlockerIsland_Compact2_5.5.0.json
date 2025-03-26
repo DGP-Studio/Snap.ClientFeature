@@ -1,0 +1,36 @@
+{
+  "Chinese": {
+    "MickeyWonderMethod": 246304736,
+    "MickeyWonderMethodPartner": 4795776,
+    "MickeyWonderMethodPartner2": 92632144,
+    "SetFieldOfView": 16387952,
+    "SetEnableFogRendering": 264705616,
+    "SetTargetFrameRate": 265393968,
+    "OpenTeam": 87090320,
+    "OpenTeamPageAccordingly": 87081712,
+    "CheckCanEnter": 196932912,
+    "SetupQuestBanner": 226255152,
+    "FindGameObject": 265245296,
+    "SetActive": 265244624,
+    "EventCameraMove": 196420608,
+    "ShowDamageText": 174285264,
+    "SwitchInputDeviceToTouchScreen": 182703984
+  },
+  "Oversea": {
+    "MickeyWonderMethod": 246395312,
+    "MickeyWonderMethodPartner": 4800768,
+    "MickeyWonderMethodPartner2": 93004928,
+    "SetFieldOfView": 16396144,
+    "SetEnableFogRendering": 264843792,
+    "SetTargetFrameRate": 265516976,
+    "OpenTeam": 87431824,
+    "OpenTeamPageAccordingly": 87463792,
+    "CheckCanEnter": 201416320,
+    "SetupQuestBanner": 190396416,
+    "FindGameObject": 265383792,
+    "SetActive": 265383120,
+    "EventCameraMove": 185249840,
+    "ShowDamageText": 173441888,
+    "SwitchInputDeviceToTouchScreen": 175930048
+  }
+}
