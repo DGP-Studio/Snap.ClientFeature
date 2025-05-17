@@ -14,7 +14,9 @@
         "SetActive": 271256208,
         "EventCameraMove": 172765632,
         "ShowOneDamageTextEx": 200120624,
-        "SwitchInputDeviceToTouchScreen": 130349264
+        "SwitchInputDeviceToTouchScreen": 130349264,
+        "MickeyWonderCombineEntryMethod": 161583968,
+        "MickeyWonderCombineEntryMethodPartner": 177233648
     },
     "Oversea": {
         "MickeyWonderMethod": 85721232,
@@ -31,6 +33,8 @@
         "SetActive": 271253344,
         "EventCameraMove": 172832400,
         "ShowOneDamageTextEx": 200156096,
-        "SwitchInputDeviceToTouchScreen": 130448624
+        "SwitchInputDeviceToTouchScreen": 130448624,
+        "MickeyWonderCombineEntryMethod": 161626800,
+        "MickeyWonderCombineEntryMethodPartner": 177411440
     }
 }
