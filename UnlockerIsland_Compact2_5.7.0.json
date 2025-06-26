@@ -17,7 +17,7 @@
         "SwitchInputDeviceToTouchScreen": 144617776,
         "MickeyWonderCombineEntryMethod": 127845632,
         "MickeyWonderCombineEntryMethodPartner": 201143472,
-        "GetTargetFrameRate": 277729104,
+        "GetTargetFrameRate": 277729104
     },
     "Oversea": {
         "MickeyWonderMethod": 87234416,
@@ -37,6 +37,6 @@
         "SwitchInputDeviceToTouchScreen": 144576144,
         "MickeyWonderCombineEntryMethod": 127856896,
         "MickeyWonderCombineEntryMethodPartner": 201297584,
-        "GetTargetFrameRate": 277798176,
+        "GetTargetFrameRate": 277798176
     }
 }
