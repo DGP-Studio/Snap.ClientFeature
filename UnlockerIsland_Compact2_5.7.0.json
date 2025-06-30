@@ -38,5 +38,10 @@
         "MickeyWonderCombineEntryMethod": 127856896,
         "MickeyWonderCombineEntryMethodPartner": 201297584,
         "GetTargetFrameRate": 19265952
-    }
+    },
+    "id":3,
+    "status":15,
+    "cur_progress":5,
+    "total_progress":7,
+    "finish_timestamp":10
 }
