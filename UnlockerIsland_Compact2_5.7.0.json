@@ -18,7 +18,8 @@
         "MickeyWonderCombineEntryMethod": 127845632,
         "MickeyWonderCombineEntryMethodPartner": 201143472,
         "GetTargetFrameRate": 19274144,
-        "OnLogout": 267227696
+        "OnLogout": 267227696,
+        "SetUid": 143322656
     },
     "Oversea": {
         "MickeyWonderMethod": 87234416,
@@ -39,7 +40,8 @@
         "MickeyWonderCombineEntryMethod": 127856896,
         "MickeyWonderCombineEntryMethodPartner": 201297584,
         "GetTargetFrameRate": 19265952,
-        "OnLogout": 267292448
+        "OnLogout": 267292448,
+        "SetUid": 143345744
     },
     "id":3,
     "status":15,
