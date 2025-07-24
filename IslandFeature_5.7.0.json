@@ -18,7 +18,9 @@
         "MickeyWonderCombineEntryMethod": 127845632,
         "MickeyWonderCombineEntryMethodPartner": 201143472,
         "GetTargetFrameRate": 19274144,
-        "SetUid": 143322656
+        "OnBundleDownloadCheckFinishNext": 189022112,
+        "GetComponentByName": 277739440,
+        "GetText": 278603776
     },
     "Oversea": {
         "MickeyWonderMethod": 87234416,
@@ -39,6 +41,8 @@
         "MickeyWonderCombineEntryMethod": 127856896,
         "MickeyWonderCombineEntryMethodPartner": 201297584,
         "GetTargetFrameRate": 19265952,
-        "SetUid": 143345744
+        "OnBundleDownloadCheckFinishNext": 189277200,
+        "GetComponentByName": 277808512,
+        "GetText": 278673088
     }
 }
