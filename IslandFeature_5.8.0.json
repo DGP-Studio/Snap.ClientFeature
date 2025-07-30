@@ -20,7 +20,8 @@
         "GetTargetFrameRate": 19540496,
         "OnBundleDownloadCheckFinishNext": 132827152,
         "GetComponentByName": 280216400,
-        "GetText": 281080608
+        "GetText": 281080608,
+        "GameManagerAwake": 161097344
     },
     "Oversea": {
         "MickeyWonderMethod": 87007088,
@@ -43,6 +44,7 @@
         "GetTargetFrameRate": 19536400,
         "OnBundleDownloadCheckFinishNext": 132883344,
         "GetComponentByName": 279934736,
-        "GetText": 280798800
+        "GetText": 280798800,
+        "GameManagerAwake": 161074848
     }
 }
