@@ -1,1 +1,23 @@
-{"id":9,"status":6,"cur_progress":14,"total_progress":1,"finish_timestamp":10}
+{
+    "id": 9,
+    "status": 6,
+    "cur_progress": 14,
+    "total_progress": 1,
+    "finish_timestamp": 10,
+    "nativeConfig": {
+        "storeCmdId": 2407,
+        "achievementCmdId": 28201,
+        "methodRva": {
+            "1969499410": {
+                "doCmd": 8934192,
+                "toUint16": 272765840,
+                "updateNormalProp": 152826016
+            },
+            "1154975569": {
+                "doCmd": 8930096,
+                "toUint16": 272487472,
+                "updateNormalProp": 152803664
+            }
+        }
+    }
+}
