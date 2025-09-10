@@ -1,0 +1,23 @@
+{
+    "id": 10,
+    "status": 4,
+    "totalProgress": 5,
+    "currentProgress": 7,
+    "finishTimestamp": 12,
+    "nativeConfig": {
+        "storeCmdId": 2540,
+        "achievementCmdId": 26391,
+        "methodRva": {
+            "3538972471": {
+                "doCmd": 8098256,
+                "toUint16": 278954368,
+                "updateNormalProp": 199222560
+            },
+            "3022660219": {
+                "doCmd": 8098256,
+                "toUint16": 278971424,
+                "updateNormalProp": 199192336
+            }
+        }
+    }
+}
