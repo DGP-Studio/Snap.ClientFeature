@@ -8,12 +8,12 @@
         "storeCmdId": 2540,
         "achievementCmdId": 26391,
         "methodRva": {
-            "3538972471": {
+            "chinese": {
                 "doCmd": 8098256,
                 "toUint16": 278954368,
                 "updateNormalProp": 199222560
             },
-            "3022660219": {
+            "oversea": {
                 "doCmd": 8098256,
                 "toUint16": 278971424,
                 "updateNormalProp": 199192336
