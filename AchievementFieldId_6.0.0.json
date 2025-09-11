@@ -2,8 +2,11 @@
     "id": 10,
     "status": 4,
     "totalProgress": 5,
+    "total_progress": 5,
     "currentProgress": 7,
+    "cur_progress": 7,
     "finishTimestamp": 12,
+    "finish_timestamp": 12,
     "nativeConfig": {
         "storeCmdId": 2540,
         "achievementCmdId": 26391,
