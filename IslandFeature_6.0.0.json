@@ -21,7 +21,9 @@
         "OnBundleDownloadCheckFinishNext": 168783328,
         "GetComponentByName": 286402432,
         "GetText": 287268448,
-        "GameManagerAwake": 164750624
+        "GameManagerAwake": 164750624,
+        "SetupResinList": 211165328,
+        "ResinListAdd": 240805536
     },
     "Oversea": {
         "MickeyWonderMethod": 87188224,
@@ -45,6 +47,8 @@
         "OnBundleDownloadCheckFinishNext": 168669472,
         "GetComponentByName": 286423440,
         "GetText": 287289792,
-        "GameManagerAwake": 164723456
+        "GameManagerAwake": 164723456,
+        "SetupResinList": 211126656,
+        "ResinListAdd": 240794992
     }
 }
