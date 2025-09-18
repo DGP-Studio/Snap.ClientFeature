@@ -14,12 +14,20 @@
             "chinese": {
                 "doCmd": 8098256,
                 "toUint16": 278954368,
-                "updateNormalProp": 199222560
+                "updateNormalProp": 199222560,
+                "newString": 4147200,
+                "findGameObject": 16644096,
+                "eventSystemUpdate": 99406368,
+                "simulatePointerClick": 99407184
             },
             "oversea": {
                 "doCmd": 8098256,
                 "toUint16": 278971424,
-                "updateNormalProp": 199192336
+                "updateNormalProp": 199192336,
+                "newString": 4148768,
+                "findGameObject": 16644096,
+                "eventSystemUpdate": 99397536,
+                "simulatePointerClick": 99397152
             }
         }
     }
