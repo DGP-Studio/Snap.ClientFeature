@@ -1,0 +1,31 @@
+{
+    "id": 15,
+    "status": 11,
+    "totalProgress": 8,
+    "currentProgress": 13,
+    "finishTimestamp": 7,
+    "nativeConfig": {
+        "storeCmdId": 26192,
+        "achievementCmdId": 8231,
+        "methodRva": {
+            "chinese": {
+                "doCmd": 7963088,
+                "toUint16": 342140448,
+                "updateNormalProp": 256091680,
+                "newString": 4054192,
+                "findGameObject": 16932192,
+                "eventSystemUpdate": 114224336,
+                "simulatePointerClick": 114221456
+            },
+            "oversea": {
+                "doCmd": 7963088,
+                "toUint16": 341597248,
+                "updateNormalProp": 255852576,
+                "newString": 4050400,
+                "findGameObject": 16932192,
+                "eventSystemUpdate": 114216512,
+                "simulatePointerClick": 114214640
+            }
+        }
+    }
+}
