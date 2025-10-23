@@ -27,7 +27,7 @@
         "ResinList": "0x1F0",
         "ResinListGetItem": "0x13CD8FF0",
         "ResinListGetCount": "0x13CD8F90",
-        "SetLastUid": "0xA946DD0"
+        "SetLastUid": "0x0F43BA90"
     },
     "Oversea": {
         "MickeyWonderMethod": 97681792,
@@ -57,6 +57,6 @@
         "ResinList": "0x1F0",
         "ResinListGetItem": "0x13C58740",
         "ResinListGetCount": "0x13C586E0",
-        "SetLastUid": "0x0A9292F0"
+        "SetLastUid": "0x0F401A60"
     }
 }
