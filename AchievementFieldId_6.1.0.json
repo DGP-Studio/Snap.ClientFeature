@@ -10,21 +10,27 @@
         "methodRva": {
             "chinese": {
                 "doCmd": 7963088,
-                "toUint16": 342140448,
                 "updateNormalProp": 256091680,
                 "newString": 4054192,
                 "findGameObject": 16932192,
                 "eventSystemUpdate": 114224336,
-                "simulatePointerClick": 114221456
+                "simulatePointerClick": 114221456,
+                "toInt32": 342140032,
+                "tcpStatePtr": 76518440,
+                "sharedInfoPtr": 76518432,
+                "decompress": 96189456
             },
             "oversea": {
                 "doCmd": 7963088,
-                "toUint16": 341597248,
                 "updateNormalProp": 255852576,
                 "newString": 4050400,
                 "findGameObject": 16932192,
                 "eventSystemUpdate": 114216512,
-                "simulatePointerClick": 114214640
+                "simulatePointerClick": 114214640,
+                "toInt32": 341596832,
+                "tcpStatePtr": 76518696,
+                "sharedInfoPtr": 76518688,
+                "decompress": 96188816
             }
         }
     }
