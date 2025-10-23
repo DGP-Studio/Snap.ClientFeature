@@ -24,7 +24,8 @@
         "GameManagerAwake": 204333664,
         "SetupResinList": 109454912,
         "ResinListRemove": 0x13CDA8C0,
-        "ResinList": 0x1F0
+        "ResinList": 0x1F0,
+        "ResinListGetItem": 0x13CD8FF0
     },
     "Oversea": {
         "MickeyWonderMethod": 97681792,
@@ -51,6 +52,7 @@
         "GameManagerAwake": 204172992,
         "SetupResinList": 109439968,
         "ResinListRemove": 0x13C5A010,
-        "ResinList": 0x1F0
+        "ResinList": 0x1F0,
+        "ResinListGetItem": 0x13C58740
     }
 }
