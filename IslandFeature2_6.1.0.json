@@ -25,7 +25,8 @@
         "SetupResinList": 109454912,
         "ResinListRemove": 0x13CDA8C0,
         "ResinList": 0x1F0,
-        "ResinListGetItem": 0x13CD8FF0
+        "ResinListGetItem": 0x13CD8FF0,
+        "ResinListGetCount": 0x13CD8F90
     },
     "Oversea": {
         "MickeyWonderMethod": 97681792,
@@ -53,6 +54,7 @@
         "SetupResinList": 109439968,
         "ResinListRemove": 0x13C5A010,
         "ResinList": 0x1F0,
-        "ResinListGetItem": 0x13C58740
+        "ResinListGetItem": 0x13C58740,
+        "ResinListGetCount": 0x13C586E0
     }
 }
